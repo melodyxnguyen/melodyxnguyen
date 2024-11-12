@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @melodyxnguyen
 - 👀 I’m interested in data analytics, web development, and graphic design.
 - 🌱 I’m currently learning Java, C, and Python.
-- 💞️ I’m looking to collaborate on website building!
+- 💞️ I’m looking to collaborate on a full-stack project!
 - 📫 How to reach me, email: melody.nguyen@pace.edu
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love running, MMA, cooking, and reading fantasy novels.
 
 <!---
