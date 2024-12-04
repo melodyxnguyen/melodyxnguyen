@@ -1,7 +1,7 @@
 # Hi, I'm Melody
 
 
-- Data analytics, web development, and graphic design.
+- ✨ Interested in Data analytics, web development, and graphic design.
 - 🌱 I’m currently learning Java, C, and Python.
 - 💞️ I’m looking to collaborate on a full-stack project!
 - 📫 How to reach me, email: melody.nguyen@pace.edu
