@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ## About Me 🧸
 
-I enjoy teaming up to use technology to tackle climate challenges. Over the past two years at SLAC, I’ve gained hands-on experience in data science, web development, and renewable energy projects within the Bay Area.
+I enjoy teaming up to use technology to solve challenges like climate change. Over the past two years at SLAC, I’ve gained hands-on experience in data science, web development, and renewable energy projects within the Bay Area.
 
 ____________________________________________________________________________________
 
