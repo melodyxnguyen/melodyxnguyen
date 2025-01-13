@@ -11,6 +11,8 @@ ________________________________________________________________________________
 
 I enjoy teaming up to use technology to solve challenges like climate change. Over the past two years at SLAC, I’ve gained hands-on experience in data science, web development, and renewable energy projects within the Bay Area.
 
+<img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
+
 ____________________________________________________________________________________
 
 ## 📍 Location
