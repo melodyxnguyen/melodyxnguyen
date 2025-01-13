@@ -18,7 +18,8 @@ ________________________________________________________________________________
 I’m based in Manhattan, New York, near the Brooklyn Bridge, but I grew up in San Jose, California. Most summers, you’ll find me there visiting my two dogs, Fudge and Moon 🐾. Let me know if you’re ever nearby—I’d love to catch up!
 
 <img width="814" alt="Screenshot 2025-01-13 at 3 11 48 PM" src="https://github.com/user-attachments/assets/e3c2d417-e8b4-40e7-b4c8-c958ff015a70" />
-__________________________________________________________________________________________
+
+____________________________________________________________________________________
 
 ## Projects 💻
 
