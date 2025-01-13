@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ## About Me 🧸
 
-I’m passionate about using technology to tackle climate challenges, and over the past two years at SLAC National Accelerator Laboratory, I’ve gained hands-on experience in data science, web development, and renewable energy projects.
+I enjoy teaming up to use technology to tackle climate challenges. Over the past two years at SLAC, I’ve gained hands-on experience in data science, web development, and renewable energy projects within the Bay Area.
 
 <img width="814" alt="Screenshot 2025-01-13 at 3 11 48 PM" src="https://github.com/user-attachments/assets/e3c2d417-e8b4-40e7-b4c8-c958ff015a70" />
 
