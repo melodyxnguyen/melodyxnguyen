@@ -1,6 +1,6 @@
 # Hello World! I'm Melody
 
-- 🂱  Interested in marketing, analytics, web development, and product design. 
+- 🂱 Interested in marketing, analytics, web development, and product design. 
 - ♡ I’m currently learning Java, C, R, and Python.
 - 𑁍 Email: melody.nguyen@pace.edu
 - 𓎩 I love running, learning martial arts, cooking, and reading fantasy novels.
