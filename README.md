@@ -1,4 +1,4 @@
-# Good to see you! I'm Melody
+# Welcome! I'm Melody
 
 
 - 𑁍 Interested in marketing, data analytics, web development, and product design.
