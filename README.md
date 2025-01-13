@@ -21,8 +21,7 @@ I grew up in San Jose, California, and most summers you can find me there visiti
 If you're ever in the area let me know, I'd love to catch up!
 
 
-
 ____________________________________________________________________________________
 
-## Projects
+## Projects 💻
 
