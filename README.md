@@ -1,4 +1,4 @@
-# Hi there! I'm Melody
+# Hello World! I'm Melody
 
 - 🂱  Interested in marketing, analytics, web development, and product design. 
 - ♡ I’m currently learning Java, C, R, and Python.
@@ -7,7 +7,7 @@
 
 ____________________________________________________________________________________
 
-## About Me
+## WhoAmI
 
 I’m passionate about using technology to tackle climate challenges, and over the past two years at SLAC National Accelerator Laboratory, I’ve gained hands-on experience in data science, web development, and renewable energy projects.
 
