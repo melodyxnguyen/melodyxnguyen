@@ -7,14 +7,15 @@
 
 ____________________________________________________________________________________
 
-## WhoAmI
+## About Me 🧸
 
 I’m passionate about using technology to tackle climate challenges, and over the past two years at SLAC National Accelerator Laboratory, I’ve gained hands-on experience in data science, web development, and renewable energy projects.
 
 ____________________________________________________________________________________
 
 ## 📍 Location
-I am currently based in Manhattan, New York, near the Brooklyn Bridge. If you're ever in the area let me know, I'd love to catch up! 
+I am currently based in Manhattan, New York, near the Brooklyn Bridge. 
+My hometown is in San Jose, California, and most summers you can find me there. If you're ever in the area let me know, I'd love to catch up! 
 
 ____________________________________________________________________________________
 
