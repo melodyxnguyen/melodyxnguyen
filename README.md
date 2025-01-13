@@ -15,7 +15,8 @@ ________________________________________________________________________________
 
 ## 📍 Location
 I am currently based in Manhattan, New York, near the Brooklyn Bridge. 
-My hometown is in San Jose, California, and most summers you can find me there. If you're ever in the area let me know, I'd love to catch up! 
+I grew up in San Jose, California, and most summers you can find me there visiting my two dogs Fudge and Moon. 🐾 
+If you're ever in the area let me know, I'd love to catch up! 
 
 ____________________________________________________________________________________
 
