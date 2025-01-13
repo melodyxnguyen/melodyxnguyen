@@ -1,4 +1,4 @@
-# Hi there! Welcome fellow coder
+# Hi there! I'm Melody
 
 - 🂱  Interested in marketing, data analytics, web development, and product design. 
 - ♡ I’m currently learning Java, C, R, and Python.
