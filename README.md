@@ -24,8 +24,9 @@ ________________________________________________________________________________
 ## 📍 Location
 
 - I’m currently based in Manhattan, New York, near the Brooklyn Bridge. 🗽🌃
-- My hometown is the Bay Area, California. 🌁
-![DSC00322](https://github.com/user-attachments/assets/971bd855-434f-47b6-aed5-702ff20e9ddb)
+- Most summers, you'll find me in my hometown, the Bay Area, California. 🌁
+
+![nyc outline](https://github.com/user-attachments/assets/927f4554-1b61-4b39-8fad-643d456bce7e)
 
 
 ____________________________________________________________________________________
