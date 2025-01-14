@@ -31,6 +31,8 @@ ________________________________________________________________________________
 
 
 ### Web Development
+- Marimo Python Notebook at Stanford: (https://marimo.sites.stanford.edu/)
+- [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
 - SLAC-Stanford Battery Center, built using Drupal: (https://batterycenter.slac.stanford.edu/)
 - Grid Resilience and Intelligence Platform, built using JavaScript, HTML, CSS: (https://www.grip.energy/)
 - Linux Foundation built using JavaScript, HTML, CSS: (https://www.arras.energy/)
@@ -38,9 +40,10 @@ ________________________________________________________________________________
 
 
 ### Marketing
-- 
-
-![ama](https://github.com/user-attachments/assets/dfef5ce7-ed09-46c5-bd69-c32e998df3a6)
+- Marimo in a Classroom: (https://marimo.sites.stanford.edu/blog/data-visualization)
+- Institute for Operations Research and the Management Sciences: (https://www.instagram.com/informs_pace/)
+- Wall Street Journal Case Competition:
+- Transactive Energy Service System - Consumer Playbook: ()
 
 ### Film Production
 - YouTube Channel with Cooking Recipes: (https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
