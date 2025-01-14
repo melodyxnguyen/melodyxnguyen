@@ -69,5 +69,5 @@ _______________________________________
 
 ## Contact
 
-Any questions or you'd like to work together? Feel free to reach out via [email](melody.nguyen@pace.edu) or connect on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
+Always feel free to reach me by email at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
 
