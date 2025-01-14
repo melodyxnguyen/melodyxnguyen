@@ -22,7 +22,7 @@ ________________________________________________________________________________
 Currently based in vibrant New York City, near the iconic Brooklyn Bridge. 
 I grew up in California's sunny Bay Area, and most summers, I head back to visit family, friends, and my two adorable dogs, Fudge and Moon. 🐾
 
-I'm always up for exploring new spots or catching up —let me know if you’re in the area!
+I'm always up for exploring new spots or catching up — let me know if you’re in the area!
  
 <img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
