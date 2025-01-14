@@ -46,7 +46,7 @@ ________________________________________________________________________________
 - YouTube Channel with Cooking Recipes: (https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
 - Internship Blog: (https://youtu.be/oxeknPHwEeU?si=tUQ30eyrQp19kp8o)
 - Fashion Photo Shoots: (https://www.instagram.com/p/C0aaOOmupTB/?utm_source=ig_web_copy_link)
-  
-![IMG_7374](https://github.com/user-attachments/assets/98c85163-8ba2-48d6-b603-8f2fda074485)
+
+
 
 
