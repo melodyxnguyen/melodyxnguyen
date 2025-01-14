@@ -26,10 +26,16 @@ I’m based in New York City and grew up in California's Bay Area. 🌁
 <img width="817" alt="Screenshot 2025-01-13 at 6 47 53 PM" src="https://github.com/user-attachments/assets/b9788bff-85f0-4550-af88-0f1ea9eb0b24" />
 
 
+_______________________________________
+
+## Contact 📬
+
+Always feel free to reach me by email at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
+
 
 ____________________________________________________________________________________
 
-# Projects 💻
+# My Projects 💻
 
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Analysis](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
@@ -63,9 +69,4 @@ ________________________________________________________________________________
 
 ![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
 
-_______________________________________
-
-## Contact 📬
-
-Always feel free to reach me by email at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
 
