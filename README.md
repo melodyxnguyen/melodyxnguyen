@@ -57,7 +57,8 @@ ________________________________________________________________________________
 - SQL Workshop
 - Business Competition using Excel
 - Tableau Data Visualization
-![000061530018](https://github.com/user-attachments/assets/681dc608-ce47-44b0-bc8e-cd474c4b6ea8)
+<img width="651" alt="Screenshot 2025-01-13 at 6 06 37 PM" src="https://github.com/user-attachments/assets/4efee56c-ebcd-4c3e-858f-2c04a1fe5e0b" />
+
 
 
 ### Film Production
