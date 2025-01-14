@@ -27,20 +27,20 @@ ________________________________________________________________________________
 
 ### Data Science 
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
+- [Interactive Python Notebook](https://marimo.sites.stanford.edu/blog/data-visualization)[testing marimo:](https://marimo.io/)
 ![graphs1](https://github.com/user-attachments/assets/089c8e0a-c27d-441a-be9d-3b4eefdf8dcf)
 
 
 ### Web Development
-- Marimo Python Notebook at Stanford: (https://marimo.sites.stanford.edu/)
+- [Marimo, Python Notebook at Stanford](https://marimo.sites.stanford.edu/)
 - [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
-- SLAC-Stanford Battery Center, built using Drupal: (https://batterycenter.slac.stanford.edu/)
-- Grid Resilience and Intelligence Platform, built using JavaScript, HTML, CSS: (https://www.grip.energy/)
-- Linux Foundation built using JavaScript, HTML, CSS: (https://www.arras.energy/)
+- [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/), built using [Drupal](https://new.drupal.org)
+- [Grid Resilience and Intelligence Platform](https://www.grip.energy/), built using JavaScript, HTML, CSS
+- [Linux Foundation](https://www.arras.energy/), built using JavaScript, HTML, CSS
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
 
 
 ### Marketing
-- Marimo in a Classroom: (https://marimo.sites.stanford.edu/blog/data-visualization)
 - Institute for Operations Research and the Management Sciences: (https://www.instagram.com/informs_pace/)
 - Wall Street Journal Case Competition:
 - Transactive Energy Service System - Consumer Playbook: ()
