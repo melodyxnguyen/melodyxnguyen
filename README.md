@@ -7,7 +7,7 @@
 
 ____________________________________________________________________________________
 
-## About Me 🧸
+### About Me 🧸
 
 I enjoy teaming up to use technology to solve challenges like climate change. Over the past two years at [SLAC](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in data science, web development, and renewable energy projects. 
 
@@ -19,9 +19,10 @@ As an undergrad at Pace University, I teach students skills in code and analytic
 
 ____________________________________________________________________________________
 
-## 📍 Location
-
-Currently based in New York City. Grew up in California's Bay Area. 
+### 📍 Location
+Currently based in vibrant New York City, near the iconic Brooklyn Bridge. 
+I grew up in California's sunny Bay Area, and most summers, I head back to visit my two dogs, Fudge and Moon 🐾. 
+Always up for exploring new spots or catching up—let me know if you’re in the area!
   
 <img width="817" alt="Screenshot 2025-01-13 at 6 47 53 PM" src="https://github.com/user-attachments/assets/b9788bff-85f0-4550-af88-0f1ea9eb0b24" />
 
