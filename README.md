@@ -46,7 +46,7 @@ ________________________________________________________________________________
 ## Data Science 
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Research at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) using a next-generation reactive python notebook - [marimo](https://marimo.io/)
-![graphs1](https://github.com/user-attachments/assets/089c8e0a-c27d-441a-be9d-3b4eefdf8dcf)
+
 
 
 ## Web Development
@@ -66,11 +66,4 @@ ________________________________________________________________________________
 - Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
-
-
-
-## Film and Photography
-- [YouTube Channel with Cooking Recipes](https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
-- [SLAC Internship Vlog](https://youtu.be/oxeknPHwEeU?si=tUQ30eyrQp19kp8o)
-- [Fashion Photography](https://www.instagram.com/p/C0aaOOmupTB/?utm_source=ig_web_copy_link)
 
