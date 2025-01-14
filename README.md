@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 ## 📍 Location
 
-- I’m based in New York City and grew up in California's Bay Area. 🌁
+I’m based in New York City and grew up in California's Bay Area. 🌁
   
 <img width="817" alt="Screenshot 2025-01-13 at 6 47 53 PM" src="https://github.com/user-attachments/assets/b9788bff-85f0-4550-af88-0f1ea9eb0b24" />
 
