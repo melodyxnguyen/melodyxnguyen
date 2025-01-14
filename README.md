@@ -23,23 +23,22 @@ ________________________________________________________________________________
 
 ## 📍 Location
 
-- I’m currently based in Manhattan, New York. 🗽🌃
+- I’m currently based in Manhattan, New York, near the Brooklyn Bridge. 🗽🌃
 - My hometown is the Bay Area, California. 🌁
-<img width="976" alt="Screenshot 2025-01-13 at 6 36 44 PM" src="https://github.com/user-attachments/assets/a5eded5d-f9b0-4ca7-be9d-990794a09708" />
-
+![DSC00322](https://github.com/user-attachments/assets/971bd855-434f-47b6-aed5-702ff20e9ddb)
 
 
 ____________________________________________________________________________________
 
 # Projects 💻
 
-### Data Science 
+## Data Science 
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
-- Research at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) using [marimo](https://marimo.io/), a next-generation reactive python notebook
+- Research at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) using a next-generation reactive python notebook - [marimo](https://marimo.io/)
 ![graphs1](https://github.com/user-attachments/assets/089c8e0a-c27d-441a-be9d-3b4eefdf8dcf)
 
 
-### Web Development
+## Web Development
 - Ambassador: [Marimo, Python Notebook at Stanford](https://marimo.sites.stanford.edu/)
 - My Applied Energy Division Team: [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
 - [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/), built using Drupal
@@ -50,7 +49,7 @@ ________________________________________________________________________________
 
 
 
-### Teaching Code:
+## Teaching Code:
 - Python Workshop
 - SQL Workshop
 - Business Competition using Excel
@@ -60,7 +59,7 @@ ________________________________________________________________________________
 
 
 
-### Marketing
+## Marketing
 - Institute for Operations Research and the Management Sciences: [Pace University](https://www.instagram.com/informs_pace/) 
 - American Marketing Association: [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
 - Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
@@ -69,9 +68,11 @@ ________________________________________________________________________________
 
 
 
-### Film and Photography
+## Film and Photography
 - [YouTube Channel with Cooking Recipes](https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
 - [SLAC Internship Vlog](https://youtu.be/oxeknPHwEeU?si=tUQ30eyrQp19kp8o)
 - [Fashion Photography](https://www.instagram.com/p/C0aaOOmupTB/?utm_source=ig_web_copy_link)
+
+![IMG_7938](https://github.com/user-attachments/assets/8e279e82-f8af-49a7-a5c0-8796ada7684e)
 
 
