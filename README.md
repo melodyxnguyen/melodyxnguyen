@@ -2,9 +2,8 @@
 
 - 🂱 Interested in marketing, analytics, web development, and product design.
 - ♡ I’m currently learning Java, C, R, and Python.
-- 𑁍 Email: melody.nguyen@pace.edu
 - 𓎩 I love running, martial arts, cooking, and reading fantasy novels.
-
+- 𑁍 Email: melody.nguyen@pace.edu
 
 ____________________________________________________________________________________
 
@@ -22,8 +21,7 @@ ________________________________________________________________________________
 
 ## 📍 Location
 
-- I’m currently based in Manhattan, New York, near the Brooklyn Bridge. 🗽🌃
-- My hometown is the Bay Area, California. 🌁
+- I’m based in New York City and grew up in California's Bay Area. 🌁
   
 <img width="817" alt="Screenshot 2025-01-13 at 6 47 53 PM" src="https://github.com/user-attachments/assets/b9788bff-85f0-4550-af88-0f1ea9eb0b24" />
 
@@ -34,12 +32,12 @@ ________________________________________________________________________________
 # Projects 💻
 
 ### Data Science 
-- SLAC National Accelerator Laboratory: [Extreme Weather Analysis Research Report](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
-- Python Programming at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) using [marimo](https://marimo.io/) a next-generation reactive python notebook.
+- SLAC National Accelerator Laboratory: [Extreme Weather Analysis](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
+- Python programming with [Marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) 
 
 
 ### Web Development
-- Ambassador: [Marimo, Python Notebook at Stanford](https://marimo.sites.stanford.edu/)
+- Marimo Ambassador: [Next-generation reactive python notebook](https://marimo.sites.stanford.edu/)
 - My Applied Energy Division Team: [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
 - Built using Drupal: [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/)
 - Built using JavaScript, HTML, CSS: [Grid Resilience and Intelligence Platform](https://www.grip.energy/)
