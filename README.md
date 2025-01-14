@@ -31,7 +31,8 @@ Always up for exploring new spots or catching up — **let me know** if you’re
 ____________________________________________________________________________________
 
 ### Contact 📧
-I'm available by text, email, and LinkedIn. Feel free to reach me any time at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/). I'd love to hear from you!
+I'm available by text, email, and LinkedIn. Feel free to reach me any time at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/). 
+I'd love to hear from you!
 
 
  
@@ -41,11 +42,11 @@ ________________________________________________________________________________
 
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Analysis](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
-- Python programming with [Marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) 
+- Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) 
 
 
 ### Web Development
-- Marimo Ambassador: [Next-generation reactive python notebook](https://marimo.sites.stanford.edu/)
+- marimo Ambassador: [Next-generation reactive python notebook](https://marimo.sites.stanford.edu/)
 - My Applied Energy Division Team: [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
 - Built using Drupal: [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/)
 - Built using JavaScript, HTML, CSS: [Grid Resilience and Intelligence Platform](https://www.grip.energy/)
