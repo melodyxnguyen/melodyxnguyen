@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 I enjoy teaming up to use technology to solve challenges like climate change. Over the past two years at SLAC, I’ve gained hands-on experience in data science, web development, and renewable energy projects within the Bay Area. 
 
-As an undergrad at Pace University in NYC, I teach students skills in code and analytics through the Institute for Operations Research and the Management Sciences. View lessons I've taught: [here]()
+As an undergrad at Pace University Honors, I teach students skills in code and analytics through the Institute for Operations Research and the Management Sciences. View lessons I've taught: [here]()
 
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
