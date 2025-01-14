@@ -45,15 +45,19 @@ ________________________________________________________________________________
 
 
 ### Marketing
-- [Institute for Operations Research and the Management Sciences at Pace University NYC](https://www.instagram.com/informs_pace/)
+- [Institute for Operations Research and the Management Sciences](https://www.instagram.com/informs_pace/) 
 - [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
 - [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![IMG_2276](https://github.com/user-attachments/assets/b47d84e6-ca4b-433a-a77c-19f7775e54ad)
+
 
 ### Teaching Code:
 - Python Workshop
 - SQL Workshop
 - Business Competition using Excel
-- Tableau Data Visualization 
+- Tableau Data Visualization
+![000061530018](https://github.com/user-attachments/assets/681dc608-ce47-44b0-bc8e-cd474c4b6ea8)
+
 
 ### Film Production
 - [YouTube Channel with Cooking Recipes](https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
