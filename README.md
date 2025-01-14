@@ -39,19 +39,20 @@ ________________________________________________________________________________
 - My very first website: [Linux Foundation](https://www.arras.energy/), built using JavaScript, HTML, CSS
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
 
+
 ### Marketing
 - [Institute for Operations Research and the Management Sciences at Pace University NYC](https://www.instagram.com/informs_pace/)
 - [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
 - [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-![cheers](https://github.com/user-attachments/assets/989c5ae6-3a55-4d63-beb3-e04373430d56)
-![display](https://github.com/user-attachments/assets/18fe40ea-aae0-4101-bec3-dd43ca856a5d)
-![informs](https://github.com/user-attachments/assets/6a0b5c0e-0f51-49bf-b834-eeb97d223608)
-![un](https://github.com/user-attachments/assets/656e9c55-2fc6-417f-b6c7-8a78d0670195)
 
+### Teaching Code:
+- Python Workshop
+- SQL Workshop
+- Business Competition using Excel
+- Tabelu 
 
 ### Film Production
 - [YouTube Channel with Cooking Recipes](https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
 - [SLAC Internship Vlog](https://youtu.be/oxeknPHwEeU?si=tUQ30eyrQp19kp8o)
 - [Fashion Photography](https://www.instagram.com/p/C0aaOOmupTB/?utm_source=ig_web_copy_link)
-![000061530007](https://github.com/user-attachments/assets/8cf72258-5ee1-4a0a-baa8-8ab561ad8e4c)
 
