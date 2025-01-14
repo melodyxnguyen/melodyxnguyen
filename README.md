@@ -1,7 +1,7 @@
 # Hello World! I'm Melody,
 
 - 🂱 Interested in marketing, analytics, web development, and product design.
-- ⟡ Honors student studying Computer Science and Business at Pace University.
+- ⟡ Computer Science and Business at Pace University Honors.
 - ♡ I’m currently learning Java, C, R, and Python.
 - 𑁍 Email: melody.nguyen@pace.edu
 - 𓎩 I love running, learning martial arts, cooking, and reading fantasy novels.
