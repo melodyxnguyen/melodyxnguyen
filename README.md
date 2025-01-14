@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________
 
-## Projects 💻
+# Projects 💻
 
 ### Data Science 
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
