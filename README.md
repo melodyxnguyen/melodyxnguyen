@@ -42,9 +42,9 @@ ________________________________________________________________________________
 ## Web Development
 - Ambassador: [Marimo, Python Notebook at Stanford](https://marimo.sites.stanford.edu/)
 - My Applied Energy Division Team: [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
-- [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/), built using Drupal
-- [Grid Resilience and Intelligence Platform](https://www.grip.energy/), built using JavaScript, HTML, CSS
-- My very first website: [Linux Foundation](https://www.arras.energy/), built using JavaScript, HTML, CSS
+- Built using Drupal: [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/)
+- Built using JavaScript, HTML, CSS: [Grid Resilience and Intelligence Platform](https://www.grip.energy/)
+- My very first website: [Linux Foundation](https://www.arras.energy/)
   
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
 
