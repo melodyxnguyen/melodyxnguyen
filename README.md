@@ -33,12 +33,12 @@ ________________________________________________________________________________
 
 # Projects 💻
 
-## Data Science 
+### Data Science 
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Research at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) using a next-generation reactive python notebook - [marimo](https://marimo.io/)
 
 
-## Web Development
+### Web Development
 - Ambassador: [Marimo, Python Notebook at Stanford](https://marimo.sites.stanford.edu/)
 - My Applied Energy Division Team: [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
 - Built using Drupal: [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/)
@@ -48,7 +48,7 @@ ________________________________________________________________________________
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
 
 
-## Teaching Code:
+### Teaching Code:
 - Python Workshop
 - SQL Data Analytics
 - Business Competition using Excel
