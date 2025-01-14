@@ -57,7 +57,7 @@ ________________________________________________________________________________
 - American Marketing Association: [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
 - Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-![IMG_2276](https://github.com/user-attachments/assets/b47d84e6-ca4b-433a-a77c-19f7775e54ad)
+![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
 
 
 
@@ -76,4 +76,5 @@ ________________________________________________________________________________
 - [SLAC Internship Vlog](https://youtu.be/oxeknPHwEeU?si=tUQ30eyrQp19kp8o)
 - [Fashion Photography](https://www.instagram.com/p/C0aaOOmupTB/?utm_source=ig_web_copy_link)
 
+![IMG_7941](https://github.com/user-attachments/assets/2b9c165b-c893-4a59-ad21-7e44afb98cf4)
 
