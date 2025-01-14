@@ -24,6 +24,7 @@ Currently based in vibrant New York City, near the iconic Brooklyn Bridge.
 I grew up in California's sunny Bay Area, and most summers, I head back to visit my family, friends and two dogs. 🐾 
 
 Always up for exploring new spots or catching up — **let me know** if you’re in the area!
+
 **Contact:** Please feel free to reach me by email at melody.nguyen@pace.edu or connect via [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
   
 <img width="817" alt="Screenshot 2025-01-13 at 6 47 53 PM" src="https://github.com/user-attachments/assets/b9788bff-85f0-4550-af88-0f1ea9eb0b24" />
