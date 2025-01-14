@@ -19,7 +19,7 @@ As an undergrad at Pace University, I teach students skills in code and analytic
 ____________________________________________________________________________________
 
 ### 📍 Location
-Currently based in vibrant New York City, near the iconic Brooklyn Bridge. 
+Currently based in vibrant [New York City](https://www.pace.edu/news/four-lubin-students-named-united-nations-millennium-fellows), near the iconic Brooklyn Bridge. 
 I grew up in California's sunny Bay Area, and most summers, I head back to visit family, friends, and my two adorable dogs, Fudge and Moon. 🐾
 
 Always up for exploring new spots or catching up — let me know if you’re in the area!
