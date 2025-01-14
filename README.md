@@ -19,7 +19,8 @@ ________________________________________________________________________________
 
 ## 📍 Location
 
-I’m currently based in Manhattan, New York. Most summers, you’ll find me visiting my hometown in the Bay Area, California.
+- I’m currently based in Manhattan, New York
+- Most summers, you’ll find me visiting my hometown in the Bay Area, California.
 
 <img width="814" alt="Screenshot 2025-01-13 at 3 11 48 PM" src="https://github.com/user-attachments/assets/e3c2d417-e8b4-40e7-b4c8-c958ff015a70" />
 
