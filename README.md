@@ -25,7 +25,7 @@ I grew up in California's sunny Bay Area, and most summers, I head back to visit
 
 Always up for exploring new spots or catching up — **let me know** if you’re in the area!
  
-<img width="817" alt="Screenshot 2025-01-13 at 6 47 53 PM" src="https://github.com/user-attachments/assets/b9788bff-85f0-4550-af88-0f1ea9eb0b24" />
+<img width="529" alt="Screenshot 2025-01-14 at 12 00 54 AM" src="https://github.com/user-attachments/assets/2e409b8a-3ff6-45a6-a594-1e4c28e2f6f7" />
 
 
 ____________________________________________________________________________________
