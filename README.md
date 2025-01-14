@@ -65,3 +65,9 @@ ________________________________________________________________________________
 
 ![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
 
+_______________________________________
+
+## Contact
+
+Any questions or you'd like to work together? Feel free to reach out via [email](melody.nguyen@pace.edu) or connect on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
+
