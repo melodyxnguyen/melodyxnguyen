@@ -32,7 +32,7 @@ _______________________________________
 
 ### Contact 📬
 
-Always feel free to reach me by email at melody.nguyen@pace.edu or connect on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
+Always feel free to reach me by email at melody.nguyen@pace.edu or connect via [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
 
 
 ____________________________________________________________________________________
