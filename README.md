@@ -41,7 +41,7 @@ ________________________________________________________________________________
 # My Projects 💻
 
 ### Data Science 
-- SLAC National Accelerator Laboratory: [Extreme Weather Analysis](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
+- SLAC National Accelerator Laboratory: [Extreme Weather Research](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) 
 
 
