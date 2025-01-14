@@ -26,8 +26,6 @@ ________________________________________________________________________________
 - I’m currently based in Manhattan, New York. 🗽🌃
 - Most summers, I visit my hometown in Bay Area, California. 🌁
 
-<img width="814" alt="Screenshot 2025-01-13 at 3 11 48 PM" src="https://github.com/user-attachments/assets/e3c2d417-e8b4-40e7-b4c8-c958ff015a70" />
-
 
 
 ____________________________________________________________________________________
@@ -38,7 +36,6 @@ ________________________________________________________________________________
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Research at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) using [marimo](https://marimo.io/), a next-generation reactive python notebook
 ![graphs1](https://github.com/user-attachments/assets/089c8e0a-c27d-441a-be9d-3b4eefdf8dcf)
-
 
 
 ### Web Development
@@ -52,15 +49,6 @@ ________________________________________________________________________________
 
 
 
-### Marketing
-- Institute for Operations Research and the Management Sciences: [Pace University](https://www.instagram.com/informs_pace/) 
-- American Marketing Association: [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
-- Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
-
-
-
 ### Teaching Code:
 - Python Workshop
 - SQL Workshop
@@ -71,10 +59,18 @@ ________________________________________________________________________________
 
 
 
-### Film Production
+### Marketing
+- Institute for Operations Research and the Management Sciences: [Pace University](https://www.instagram.com/informs_pace/) 
+- American Marketing Association: [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
+- Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
+
+
+
+### Film and Photography
 - [YouTube Channel with Cooking Recipes](https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
 - [SLAC Internship Vlog](https://youtu.be/oxeknPHwEeU?si=tUQ30eyrQp19kp8o)
 - [Fashion Photography](https://www.instagram.com/p/C0aaOOmupTB/?utm_source=ig_web_copy_link)
 
-![IMG_7941](https://github.com/user-attachments/assets/2b9c165b-c893-4a59-ad21-7e44afb98cf4)
 
