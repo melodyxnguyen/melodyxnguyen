@@ -70,6 +70,7 @@ ________________________________________________________________________________
 - INFORMS at Pace University: [Institute for Operations Research and the Management Sciences](https://www.instagram.com/informs_pace/) 
 - Wall Street Journal: [American Marketing Association Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
 - Linux Foundation: [Consumer Playbook - Transactive Energy Service System](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- United Nations: [Millennium Fellowship - Sustainable Development](https://www.millenniumfellows.org/post/melody-ngyuen-a-millennium-fellow-s-journey-from-local-initiatives-to-the-united-nations)
 
 ![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
 
