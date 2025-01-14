@@ -53,7 +53,7 @@ ________________________________________________________________________________
 - Python Workshop
 - SQL Workshop
 - Business Competition using Excel
-- Tabelu 
+- Tableau Data Visualization 
 
 ### Film Production
 - [YouTube Channel with Cooking Recipes](https://youtu.be/TlLcZlZ7lXs?si=hyc60lgurqc4aObD)
