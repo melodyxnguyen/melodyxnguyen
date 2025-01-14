@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 ## Teaching Code:
 - Python Workshop
-- SQL Workshop
+- SQL Data Analytics
 - Business Competition using Excel
 - Tableau Data Visualization
 
