@@ -10,9 +10,9 @@ ________________________________________________________________________________
 
 ## About Me 🧸
 
-I enjoy teaming up to use technology to solve challenges like climate change. Over the past two years at [SLAC](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in data science, web development, and renewable energy projects within the Bay Area. 
+I enjoy teaming up to use technology to solve challenges like climate change. Over the past two years at [SLAC](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in data science, web development, and renewable energy projects. 
 
-As an undergrad at Pace University, I am studying Computer Science and Business as an honors student. I teach students skills in code and analytics for the Institute for Operations Research and the Management Sciences; view lessons [here]().
+As an undergrad at Pace University, I teach students skills in code and analytics for the Institute for Operations Research and the Management Sciences; view lessons [here]().
 
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
