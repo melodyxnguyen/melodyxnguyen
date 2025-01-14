@@ -33,7 +33,7 @@ ________________________________________________________________________________
 I'm available by text, email, and LinkedIn. Feel free to reach me any time at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/). 
 I'd love to hear from you!
 
-
+<img width="622" alt="Screenshot 2025-01-14 at 12 12 16 AM" src="https://github.com/user-attachments/assets/89b235db-cb4d-43de-b583-ddb7e7edfa88" />
  
 ____________________________________________________________________________________
 
@@ -43,6 +43,7 @@ ________________________________________________________________________________
 - SLAC National Accelerator Laboratory: [Extreme Weather Research](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization)
  - Libraries: NumPy, Pandas, Matplotlib, Seaborn
+
 
 
 ### Web Development
