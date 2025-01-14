@@ -33,6 +33,16 @@ ________________________________________________________________________________
 
 # Projects 💻
 
+## Teaching Code:
+- Python Workshop
+- SQL Data Analytics
+- Business Competition using Excel
+- Tableau Data Visualization
+
+![INFORMS SlidShow](https://github.com/user-attachments/assets/7db472d1-238d-4b3a-95ec-6604350853de)
+
+
+
 ## Data Science 
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Research at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) using a next-generation reactive python notebook - [marimo](https://marimo.io/)
@@ -47,16 +57,6 @@ ________________________________________________________________________________
 - My very first website: [Linux Foundation](https://www.arras.energy/)
   
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
-
-
-
-## Teaching Code:
-- Python Workshop
-- SQL Data Analytics
-- Business Competition using Excel
-- Tableau Data Visualization
-
-![INFORMS SlidShow](https://github.com/user-attachments/assets/7db472d1-238d-4b3a-95ec-6604350853de)
 
 
 
