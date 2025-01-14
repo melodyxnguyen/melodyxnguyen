@@ -16,16 +16,15 @@ As an undergrad at Pace University, I teach students skills in code and analytic
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
 
-
 ____________________________________________________________________________________
 
 ### 📍 Location
 Currently based in vibrant New York City, near the iconic Brooklyn Bridge. 
 I grew up in California's sunny Bay Area, and most summers, I head back to visit family, friends, and my two adorable dogs, Fudge and Moon. 🐾
 
-Always up for exploring new spots or catching up — **let me know** if you’re in the area!
+I'm always up for exploring new spots or catching up —let me know if you’re in the area!
  
-<img width="529" alt="Screenshot 2025-01-14 at 12 00 54 AM" src="https://github.com/user-attachments/assets/2e409b8a-3ff6-45a6-a594-1e4c28e2f6f7" />
+<img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
 
 ____________________________________________________________________________________
