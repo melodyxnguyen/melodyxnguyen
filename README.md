@@ -37,12 +37,12 @@ ________________________________________________________________________________
 
 # My Projects 💻
 
-### Data Science 
+#### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Analysis](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [Marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization) 
 
 
-### Web Development
+#### Web Development
 - Marimo Ambassador: [Next-generation reactive python notebook](https://marimo.sites.stanford.edu/)
 - My Applied Energy Division Team: [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
 - Built using Drupal: [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/)
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
 
 
-### Teaching Code:
+#### Teaching Code:
 - Python Workshop
 - SQL Data Analytics
 - Business Competition using Excel
@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 
 
-### Marketing
+#### Marketing
 - Institute for Operations Research and the Management Sciences: [Pace University](https://www.instagram.com/informs_pace/) 
 - American Marketing Association: [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
 - Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
