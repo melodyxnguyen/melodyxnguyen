@@ -30,8 +30,9 @@ Always up for exploring new spots or catching up — **let me know** if you’re
 
 ____________________________________________________________________________________
 
-### Contact 📧
+### Contact 💌
 I'm available by text, email, and LinkedIn. Feel free to reach me any time at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/). 
+
 I'd love to hear from you!
 
 
