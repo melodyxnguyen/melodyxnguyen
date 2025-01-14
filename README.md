@@ -9,9 +9,9 @@ ________________________________________________________________________________
 
 ### About Me 🧸
 
-I enjoy teaming up to use technology to solve challenges like climate change. Over the past two years at [SLAC](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in data science, web development, and renewable energy projects. 
+I enjoy teaming up to use technology to solve challenges like **climate change**. Over the past two years at [SLAC](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in data science, web development, and renewable energy projects. 
 
-As an undergrad at Pace University, I teach students skills in code and analytics for the Institute for Operations Research and the Management Sciences; view lessons [here]().
+As an undergrad at Pace University, I teach students skills in code and analytics for the **Institute for Operations Research and the Management Sciences**; view lessons [here]().
 
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
@@ -23,9 +23,16 @@ ________________________________________________________________________________
 Currently based in vibrant New York City, near the iconic Brooklyn Bridge. 
 I grew up in California's sunny Bay Area, and most summers, I head back to visit my family, friends and two dogs. 🐾 
 
-Always up for exploring new spots or catching up — let me know if you’re in the area!
+Always up for exploring new spots or catching up — **let me know** if you’re in the area!
   
 <img width="817" alt="Screenshot 2025-01-13 at 6 47 53 PM" src="https://github.com/user-attachments/assets/b9788bff-85f0-4550-af88-0f1ea9eb0b24" />
+
+
+_______________________________________
+
+### Contact 📬
+
+Always feel free to reach me by email at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
 
 
 ____________________________________________________________________________________
@@ -64,13 +71,6 @@ ________________________________________________________________________________
 
 ![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
 
-
-
-_______________________________________
-
-## Contact 📬
-
-Always feel free to reach me by email at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/).
 
 
 
