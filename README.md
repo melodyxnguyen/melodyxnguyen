@@ -43,7 +43,7 @@ ________________________________________________________________________________
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization)
-- Libraries used: NumPy, Pandas, Matplotlib, Seaborn
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn
 
 
 ### Web Development
@@ -58,8 +58,8 @@ ________________________________________________________________________________
 
 ### Teaching Code:
 - Python Workshop
-- SQL Data Analytics
-- Business Competition using Excel
+- SQL Business Analytics
+- Entrepreneurship Competition using Excel
 - Tableau Data Visualization
 
 ![INFORMS SlidShow](https://github.com/user-attachments/assets/7db472d1-238d-4b3a-95ec-6604350853de)
@@ -68,8 +68,8 @@ ________________________________________________________________________________
 
 ### Marketing
 - Institute for Operations Research and the Management Sciences: [Pace University](https://www.instagram.com/informs_pace/) 
-- American Marketing Association: [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
-- Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- Wall Street Journal: [American Marketing Association Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
+- Linux Foundation: [Consumer Playbook - Transactive Energy Service System](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
 
