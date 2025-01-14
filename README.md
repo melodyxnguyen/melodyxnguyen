@@ -1,4 +1,4 @@
-# Hello World! I'm Melody,
+# Hello World! I'm Melody
 
 - 🂱 Interested in marketing, analytics, web development, and product design.
 - ⟡ Computer Science and Business at Pace University Honors.
