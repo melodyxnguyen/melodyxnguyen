@@ -46,8 +46,9 @@ ________________________________________________________________________________
 
 ### Marketing
 - [Institute for Operations Research and the Management Sciences](https://www.instagram.com/informs_pace/) 
-- [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
-- [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- American Marketing Association: [Wall Street Journal Case Competition](https://www.canva.com/design/DAFUr-YZt0I/reH7RhIx1Jf9DCKXKRvlHA/view?)
+- Linux Foundation: [Transactive Energy Service System - Consumer Playbook](https://www.canva.com/design/DAFgsSLel8E/q1u12uTSfEgrS1q12E98cw/view?utm_content=DAFgsSLel8E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ![IMG_2276](https://github.com/user-attachments/assets/b47d84e6-ca4b-433a-a77c-19f7775e54ad)
 
 
