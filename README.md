@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 ### Data Science 
 - [Extreme Weather Analysis and Electrical Grid Resilience at SLAC National Accelerator Laboratory](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
-- [Interactive Python Notebook](https://marimo.sites.stanford.edu/blog/data-visualization)[testing marimo:](https://marimo.io/)
+- [Interactive Python Notebook](https://marimo.sites.stanford.edu/blog/data-visualization) [testing marimo:](https://marimo.io/)
 ![graphs1](https://github.com/user-attachments/assets/089c8e0a-c27d-441a-be9d-3b4eefdf8dcf)
 
 
