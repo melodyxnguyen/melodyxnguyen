@@ -74,6 +74,3 @@ ________________________________________________________________________________
 - [SLAC Internship Vlog](https://youtu.be/oxeknPHwEeU?si=tUQ30eyrQp19kp8o)
 - [Fashion Photography](https://www.instagram.com/p/C0aaOOmupTB/?utm_source=ig_web_copy_link)
 
-![IMG_7938](https://github.com/user-attachments/assets/8e279e82-f8af-49a7-a5c0-8796ada7684e)
-
-
