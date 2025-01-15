@@ -1,4 +1,4 @@
-# Hi there! I'm Melody
+# Design, Data, Develop
 
 - 🂱 Interested in marketing, analytics, web development, and product design.
 - ♡ I’m currently learning Java, C, R, and Python.
