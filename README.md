@@ -54,7 +54,7 @@ ________________________________________________________________________________
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
 
 
-### Teaching Code:
+### Teaching Code
 - Python Workshop
 - SQL Business Analytics
 - Entrepreneurship Competition using Excel
