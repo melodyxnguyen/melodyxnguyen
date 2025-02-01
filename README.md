@@ -40,7 +40,7 @@ ________________________________________________________________________________
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization)
- - Libraries: NumPy, Pandas, Matplotlib, Seaborn
+ - [Libraries](https://marimo.io/p/@regrow/regrow-temperature-report?show-code=false): NumPy, Pandas, Matplotlib, Seaborn
 
 
 
