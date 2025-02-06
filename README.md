@@ -48,7 +48,7 @@ ________________________________________________________________________________
 - marimo Ambassador: [Next-generation reactive python notebook](https://marimo.sites.stanford.edu/)
 - Applied Energy Division: [Grid Integration Systems and Mobility](https://gismo.slac.stanford.edu/)
 - Drupal: [SLAC-Stanford Battery Center](https://batterycenter.slac.stanford.edu/)
-- JavaScript, HTML, CSS, Jekyll: [Grid Resilience and Intelligence Platform](https://www.grip.energy/)
+- JavaScript, HTML/CSS, Markdown, Jekyll: [Grid Resilience and Intelligence Platform](https://www.grip.energy/)
 - My very first website! [Linux Foundation](https://www.arras.energy/)
   
 ![arras](https://github.com/user-attachments/assets/f30ea98a-eb8d-4d21-ad3f-b8e0db4dbca8)
