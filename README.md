@@ -19,11 +19,9 @@ As an undergrad at Pace University NYC, I teach students skills in code and anal
 ____________________________________________________________________________________
 
 ### 📍 Location
-Currently based in vibrant [New York City](https://www.pace.edu/news/four-lubin-students-named-united-nations-millennium-fellows), near the iconic Brooklyn Bridge. 
-I grew up in California's sunny Bay Area, and most summers, I head back to visit family, friends, and my two adorable dogs, Fudge and Moon. 🐾
+Currently based in [New York City](https://www.pace.edu/news/four-lubin-students-named-united-nations-millennium-fellows), I grew up in California's sunny Bay Area. Most summers, I head back to visit family, friends, and my two adorable dogs, Fudge and Moon. 🐾
 
 Always up for exploring new spots or catching up — let me know if you’re in the area!
- 
 <img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
 
