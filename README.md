@@ -32,7 +32,7 @@ ________________________________________________________________________________
 I'm available by text, email, and LinkedIn. Feel free to reach me any time at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/). 
 Happy to chat!
 
-For more details, download: [Melody's 2025 Resume](MelodyNguyenResume2025.pdf)
+For more details: [Resume](MelodyNguyenResume2025.pdf)
 
 ____________________________________________________________________________________
 
