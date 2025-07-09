@@ -1,9 +1,13 @@
 # Hi there! I'm Melody
 
 - 🂱 Interested in marketing, data science, web development, and product management.
-- ♡ I’m currently learning Java, C, R, and Python.
 - 𓎩 I love running, martial arts, cooking, and reading fantasy novels.
 - 𑁍 Email: melody.nguyen@pace.edu
+
+Programming | Python, Java, C, Web Design (HTML, CSS, JavaScript)
+Data Science | R, SQL, Excel, Tableau, Google Analytics, Git
+Graphic Design | Drupal, Canva, Figma, Adobe
+Video Production | Davinci Resolve, YouTube Studio
 
 ____________________________________________________________________________________
 
