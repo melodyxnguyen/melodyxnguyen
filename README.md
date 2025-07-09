@@ -19,13 +19,10 @@ ________________________________________________________________________________
 
 ### Skills
 
-Programming | Python, Java, C, Web Design (HTML, CSS, JavaScript)
-
-Data Science | R, SQL, Excel, Tableau, Google Analytics, Git
-
-Graphic Design | Drupal, Canva, Figma, Adobe
-
-Video Production | Davinci Resolve, YouTube Studio
+- Programming | Python, Java, C, Web Design (HTML, CSS, JavaScript)
+- Data Science | R, SQL, Excel, Tableau, Google Analytics, Git
+- Graphic Design | Drupal, Canva, Figma, Adobe
+- Video Production | Davinci Resolve, YouTube Studio
 
 ____________________________________________________________________________________
 
