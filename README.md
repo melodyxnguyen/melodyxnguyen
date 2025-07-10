@@ -1,9 +1,9 @@
 # Hi there! I'm Melody
 
-- 🂱 Interested in marketing, data science, web development, and product management.
-- 𓎩 I love running, martial arts, cooking, and reading fantasy novels.
-- 𑁍 Email: melody.nguyen@pace.edu
-
+- Interested in marketing, data science, web development, and product management.
+- I love running, martial arts, cooking, and reading fantasy novels.
+- Email: melody.nguyen@pace.edu
+  
 ____________________________________________________________________________________
 
 ### About Me 🧸
@@ -15,7 +15,6 @@ As an undergrad at Pace University NYC, I teach students skills in code and anal
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
 ____________________________________________________________________________________
-
 
 ### Skills
 
@@ -79,7 +78,6 @@ ________________________________________________________________________________
 
 
 ![tess](https://github.com/user-attachments/assets/f5eb26fc-c408-4f80-8a9d-230196c864e6)
-
 
 
 
