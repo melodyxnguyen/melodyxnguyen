@@ -2,7 +2,7 @@
 
 - Interested in marketing, data science, web development, and product management.
 - I love running, martial arts, cooking, and reading fantasy novels.
-- Email: melody.nguyen@pace.edu
+- Contact: melody.nguyen@pace.edu
   
 ____________________________________________________________________________________
 
@@ -30,14 +30,11 @@ I am currently based in [New York City](https://www.pace.edu/news/four-lubin-stu
 
 <img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
+### Let's chat  
+- Feel free to reach me anytime at melody.nguyen@pace.edu
+- Connect on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/)
+- For more details: [Resume](MelodyNguyenResume2025.pdf)
 
-____________________________________________________________________________________
-
-### Contact 📬
-I'm available by text, email, and LinkedIn. Feel free to reach me any time at melody.nguyen@pace.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/). 
-Happy to chat!
-
-For more details: [Resume](MelodyNguyenResume2025.pdf)
 
 ____________________________________________________________________________________
 
