@@ -33,7 +33,7 @@ I am currently based in [New York City](https://www.pace.edu/news/four-lubin-stu
 ### Let's chat  
 - Feel free to reach me anytime at melody.nguyen@pace.edu
 - Connect on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/)
-- For more details: [Resume](MelodyNguyenResume2025.pdf)
+- For more details: [Resume](MelodyNguyenResume.pdf)
 
 
 ____________________________________________________________________________________
