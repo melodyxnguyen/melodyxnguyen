@@ -50,8 +50,9 @@ ________________________________________________________________________________
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research Report](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization)
- - [Code](https://marimo.io/p/@regrow/regrow-temperature-report?show-code=false): NumPy, Pandas, Matplotlib, Seaborn
- - [Presentation]()
+- Science Undergraduate Laboratory Internship Program: [Presentation](https://docs.google.com/presentation/d/1R5VFEJgxUEtMbqDDQDPZ9I8IjvQp0zU5xowkFyax8Lo/edit?usp=drive_link)
+ - NumPy, Pandas, Matplotlib, Seaborn: [Code](https://marimo.io/p/@regrow/regrow-temperature-report?show-code=false)
+
 
 
 
