@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ### Contact
 - Feel free to reach me anytime at melody.nguyen@pace.edu
 - Connect on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/)
-- For more details: [Resume](https://github.com/melodyxnguyen/melodyxnguyen/blob/main/MelodyNguyenResume.pdf))
+- For more details: [Resume](https://github.com/melodyxnguyen/melodyxnguyen/blob/main/MelodyNguyenResume.pdf)
 
 
 ____________________________________________________________________________________
