@@ -42,6 +42,11 @@ ________________________________________________________________________________
 
 # My Projects 💻
 
+### Software & Machine Learning
+- [Automated X-Ray Powder Diffraction Experiment](https://github.com/melodyxnguyen/autonomous-beamline)
+- Stanford Synchrotron Radiation Lightsource
+- Material Science Research 
+
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization)
