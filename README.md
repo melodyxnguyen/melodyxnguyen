@@ -16,6 +16,14 @@ As an undergrad at Pace University NYC, I teach students skills in code and anal
 
 ____________________________________________________________________________________
 
+### Research Interests
+
+- Digital Pollution | Data Storage, Energy Efficiency
+- Technology Transfer | Research to Industry
+- Educational Equity | Opportunities for Young Women
+
+____________________________________________________________________________________
+
 ### Skills
 
 - Programming | Python, Java, C, Web Design (HTML, CSS, JavaScript)
@@ -52,8 +60,6 @@ ________________________________________________________________________________
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization)
 - Science Undergraduate Laboratory Internship Program: [Presentation](https://docs.google.com/presentation/d/1R5VFEJgxUEtMbqDDQDPZ9I8IjvQp0zU5xowkFyax8Lo/edit?usp=drive_link)
  - NumPy, Pandas, Matplotlib, Seaborn: [Code](https://marimo.io/p/@regrow/regrow-temperature-report?show-code=false)
-
-
 
 
 ### Web Development
