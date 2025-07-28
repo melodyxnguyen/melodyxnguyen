@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ### Research Interests
 
-- Digital Pollution | Data Storage, Energy Efficiency
+- Digital Pollution | Data Storage and Energy Efficiency
 - Technology Transfer | Research to Industry
 - Educational Equity | Opportunities for Young Women
   
