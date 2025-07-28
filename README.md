@@ -3,6 +3,14 @@
 - Interested in marketing, data science, web development, and product management.
 - I love running, martial arts, cooking, and reading fantasy novels.
 - Email: melody.nguyen@pace.edu
+
+____________________________________________________________________________________
+
+### Research Interests
+
+- Digital Pollution | Data Storage, Energy Efficiency
+- Technology Transfer | Research to Industry
+- Educational Equity | Opportunities for Young Women
   
 ____________________________________________________________________________________
 
@@ -13,14 +21,6 @@ I enjoy teaming up to use technology to solve challenges like **climate change**
 As an undergrad at Pace University NYC, I teach students skills in code and analytics for the **Institute for Operations Research and the Management Sciences**; *view lessons [here](https://github.com/melodyxnguyen#teaching-code).*
 
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
-
-____________________________________________________________________________________
-
-### Research Interests
-
-- Digital Pollution | Data Storage, Energy Efficiency
-- Technology Transfer | Research to Industry
-- Educational Equity | Opportunities for Young Women
 
 ____________________________________________________________________________________
 
