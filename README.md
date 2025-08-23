@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ### Research Interests
 
 - Digital Pollution | Data Storage and Energy Efficiency
-- Enviormental Protection | Public Policy
+- Environmental Protection | Public Policy
 - Technology Transfer | Research to Industry
 - Educational Equity | Opportunities for Young Women
   
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 - Stanford Synchrotron Radiation Lightsource
 - Material Science Research
 
-![Research Poster](https://github.com/melodyxnguyen/melodyxnguyen/blob/main/Autonomous_XRD_ML_Poster_SLAC2025.pdf)
+<img width="798" height="603" alt="Screenshot 2025-08-23 at 3 12 58 PM" src="https://github.com/user-attachments/assets/7d87f701-29b0-47f9-91ca-54649be74893" />
 
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research Report](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
