@@ -54,7 +54,9 @@ ________________________________________________________________________________
 ### Software & Machine Learning
 - [Automated X-Ray Powder Diffraction Experiment](https://github.com/melodyxnguyen/autonomous-beamline)
 - Stanford Synchrotron Radiation Lightsource
-- Material Science Research 
+- Material Science Research
+
+![Research Poster](https://github.com/melodyxnguyen/melodyxnguyen/blob/main/Autonomous_XRD_ML_Poster_SLAC2025.pdf)
 
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research Report](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
