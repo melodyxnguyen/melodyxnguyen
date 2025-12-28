@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 ### About Me 🧸
 
-I enjoy teaming up to use technology to solve challenges like **climate change**. Over the past two years at [Stanford Linear Accelerator Center](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in analytics, web development, and renewable energy projects. 
+I enjoy teaming up to use technology to solve challenges like **climate change**. Over the past three years at [Stanford Linear Accelerator Center](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in analytics, web development, and renewable energy projects. 
 
 As an undergrad at Pace University NYC, I teach students skills in code and analytics for the **Institute for Operations Research and the Management Sciences**; *view lessons [here](https://github.com/melodyxnguyen#teaching-code).*
 
