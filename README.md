@@ -58,7 +58,7 @@ ________________________________________________________________________________
 <img 
   src="https://github.com/user-attachments/assets/bfe86850-6404-4e46-aeb4-5204e64a4882"
   alt="image"
-  width="800"
+  width="700"
 />
 
 
