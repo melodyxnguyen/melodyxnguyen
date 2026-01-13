@@ -76,7 +76,7 @@ ________________________________________________________________________________
 ### Teaching Code
 - [Python Workshop](https://youtu.be/x43x1SI7vRE?si=jKBLRgDozQJjz9_g)
 - [SQL Business Analytics](https://docs.google.com/presentation/d/1jvQVT06VE_abBy7DJF9FhwzJfRczF4QegeR6RT17grY/edit?slide=id.g92a1ad2113_0_137#slide=id.g92a1ad2113_0_137)
-- Entrepreneurship Competition using Excel
+- [Entrepreneurship Competition using Excel](https://docs.google.com/presentation/d/1Dl8U267ptbFnEJVF3goALgefLjH1ClFmgHQqaPBkZw0/edit?usp=sharing)
 - [Tableau Data Visualization](https://docs.google.com/document/d/1Rgbp5X63W37owc_7vZg9HSIsdGOtYzu7ueCxO_QO2xo/edit?tab=t.0)
 
 ![INFORMS SlidShow](https://github.com/user-attachments/assets/7db472d1-238d-4b3a-95ec-6604350853de)
