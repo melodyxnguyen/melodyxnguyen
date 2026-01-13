@@ -75,7 +75,7 @@ ________________________________________________________________________________
 
 ### Teaching Code
 - [Python Workshop](https://youtu.be/x43x1SI7vRE?si=jKBLRgDozQJjz9_g)
-- SQL Business Analytics
+- [SQL Business Analytics](https://github.com/user-attachments/files/24599917/SQL.S24.-.INFORMS.pdf)
 - Entrepreneurship Competition using Excel
 - Tableau Data Visualization
 
