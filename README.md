@@ -55,6 +55,8 @@ ________________________________________________________________________________
 - Stanford Synchrotron Radiation Lightsource: [SLAC Report 2025](https://github.com/user-attachments/files/24600110/SLAC_Report_2025.pdf)
 - Material Science Research
 
+<img width="1608" height="1206" alt="image" src="https://github.com/user-attachments/assets/bfe86850-6404-4e46-aeb4-5204e64a4882" />
+
 
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research Report](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
