@@ -22,8 +22,6 @@ As an undergrad at Pace University, NYC, I teach students skills in code and ana
 
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
-This summer, I will be teaching machine learning with Python and Java as an iD Tech Instructor at Stanford University. 
-
 ____________________________________________________________________________________
 
 ### Skills
@@ -37,6 +35,8 @@ ________________________________________________________________________________
 
 ### 📍 Location
 I am currently based in [New York City](https://www.pace.edu/news/four-lubin-students-named-united-nations-millennium-fellows) and grew up in California's sunny Bay Area.  
+
+This summer, I will be teaching machine learning with Python and Java as an iD Tech Instructor at Stanford University. 
 
 <img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
