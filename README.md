@@ -1,8 +1,14 @@
 # Hi there! I'm Melody
 
+### About Me:
 - Interested in marketing, data science, web development, and product management.
-- I love running, training Muay Thai, cooking, and reading fantasy novels.
 - Email: melody.nguyen@pace.edu
+
+### Fun Facts:
+- I love running, training Muay Thai, cooking, and reading fantasy novels.
+- Ran the NYC 2025 Marathon
+- Hometown: San Jose, CA
+- Current City: New York, NY
 
 ____________________________________________________________________________________
 
