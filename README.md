@@ -2,7 +2,7 @@
 
 ### About Me
 - Interested in marketing, data science, software development, and product management.
-- I love running, training in martial arts, cooking, and reading fantasy novels.
+- I love running, training in martial arts, cooking, and fantasy novels.
 - Email: melody.nguyen@pace.edu
 
 ____________________________________________________________________________________
