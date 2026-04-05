@@ -39,6 +39,8 @@ I am currently based in [New York City](https://www.pace.edu/news/four-lubin-stu
 
 This summer, I will be teaching machine learning with Python and Java as an iD Tech Instructor at Stanford University. 
 
+In fall 2026, I will start my master's in Computer Science at Georgia Institute of Technology.
+
 <img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
 ____________________________________________________________________________________
