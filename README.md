@@ -56,7 +56,7 @@ ________________________________________________________________________________
 # My Projects 💻
 
 ### Routers & Web Services
-- AWS, DynamoDB:  [Blog post project](https://melodynguyen.pythonanywhere.com/login.html)
+- AWS, DynamoDB:  [Blog Post](https://melodynguyen.pythonanywhere.com/login.html)
 
 ### Software & Machine Learning
 - [Automated X-Ray Powder Diffraction Experiment](https://github.com/melodyxnguyen/autonomous-beamline)
