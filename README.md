@@ -55,6 +55,9 @@ ________________________________________________________________________________
 
 # My Projects 💻
 
+### Routers & Web Services
+- AWS, DynamoDB:  [Blog post project](https://melodynguyen.pythonanywhere.com/login.html)
+
 ### Software & Machine Learning
 - [Automated X-Ray Powder Diffraction Experiment](https://github.com/melodyxnguyen/autonomous-beamline)
 - Stanford Synchrotron Radiation Lightsource: [SLAC Report 2025](https://github.com/user-attachments/files/24600110/SLAC_Report_2025.pdf)
