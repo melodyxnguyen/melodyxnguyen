@@ -55,6 +55,13 @@ ________________________________________________________________________________
 
 # My Projects 💻
 
+### Research: Honors Thesis
+- Digital Pollution: Understanding the Cost of Large Language Models
+- Educational website: [digitalpollution.io](https://digitalpollution.io/)
+- Details: [Repository](https://github.com/melodyxnguyen/digitalpollution)
+
+<img width="602" height="336" alt="presentation3" src="https://github.com/user-attachments/assets/e8f2fecd-9a71-4a58-a860-60350f3b2e57" />
+
 ### Routers & Web Services
 - AWS, DynamoDB:  [Blog Post](https://melodynguyen.pythonanywhere.com/login.html)
 
