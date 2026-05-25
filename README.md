@@ -80,7 +80,7 @@ ________________________________________________________________________________
 ### Data Science 
 - SLAC National Accelerator Laboratory: [Extreme Weather Research Report](https://github.com/user-attachments/files/18403394/ResearchReport.pdf)
 - Python programming with [marimo](https://marimo.io/) at [Stanford University](https://marimo.sites.stanford.edu/blog/data-visualization)
-- Science Undergraduate Laboratory Internship Program: [Presentation](https://docs.google.com/presentation/d/1R5VFEJgxUEtMbqDDQDPZ9I8IjvQp0zU5xowkFyax8Lo/edit?usp=drive_link)
+- Science Undergraduate Laboratory Internship Program: [Presentation]([https://docs.google.com/presentation/d/1R5VFEJgxUEtMbqDDQDPZ9I8IjvQp0zU5xowkFyax8Lo/edit?usp=drive_link](https://github.com/melodyxnguyen/melodyxnguyen/blob/main/Melody%20Nguyen%20-%20SULI%20Internship%202024.pdf))
  - NumPy, Pandas, Matplotlib, Seaborn: [Code](https://marimo.io/p/@regrow/regrow-temperature-report?show-code=false)
 
 
