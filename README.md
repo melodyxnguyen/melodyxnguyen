@@ -1,8 +1,10 @@
 # Hi there! I'm Melody
 
+<img width="489" height="327" alt="Screenshot 2026-06-09 at 7 11 23 PM" src="https://github.com/user-attachments/assets/88accd51-6eda-43af-9129-26b3686220a0" />
+
 ### About Me
 - Interested in marketing, data science, software development, and product management.
-- I love running, training in martial arts, cooking, and fantasy novels.
+- I love running, training in martial arts, cooking, and reading fantasy novels.
 - Email: melody.nguyen@pace.edu
 
 ____________________________________________________________________________________
