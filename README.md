@@ -3,26 +3,27 @@
 <img width="489" height="327" alt="Screenshot 2026-06-09 at 7 11 23 PM" src="https://github.com/user-attachments/assets/88accd51-6eda-43af-9129-26b3686220a0" />
 
 ### About Me
-- Product technologist and business analyst with 3 years of industry experience
+- Product technologist and business analyst with 3 years of industry experience.
 - Worked with the Department of Energy, Stanford University, and Healthfirst. 
-- I love running, training in martial arts, cooking, and reading fantasy novels.
-- Email: melodyxnguyen@gmail.com
+- Loves running, training in martial arts, cooking, and reading fantasy novels.
 
 ____________________________________________________________________________________
 
 ### Research Interests
 
-- Digital Pollution | Data Storage and Energy Efficiency
-- Technology Transfer | Research to Industry
-- Educational and Health Care Equity
+- Product management within health care and technology.
+- Data storage and energy efficiency.
+- Educational equity and STEM opportunities for women.
   
 ____________________________________________________________________________________
 
-### About Me 🧸
+### About Me 
 
-I enjoy teaming up to use technology to solve challenges like **climate change**. For three years at [Stanford Linear Accelerator Center](https://www6.slac.stanford.edu/), I gained hands-on experience in analytics, web development, and renewable energy projects. 
+I enjoy teaming up to use technology to solve challenges like climate change and equal access to healthcare. Since 2023, I spent three summers researching at Stanford University's [Department of Energy Laboratory](https://www6.slac.stanford.edu/), providing analytics, web development, and support for renewable energy projects. 
 
-As an undergrad at Pace University, NYC, I taught college students skills in coding and analytics for the **Institute for Operations Research and the Management Sciences**; *view lessons [here](https://github.com/melodyxnguyen#teaching-code).* In summer 2026, I taught Python, Artificial Intelligence, and Machine Learning courses to 120+ students as an iD Tech Instructor at Stanford University. 
+As an undergrad at Pace University, NYC, I taught college students skills in coding and analytics for the **Institute for Operations Research and the Management Sciences**; *view lessons [here](https://github.com/melodyxnguyen#teaching-code).* 
+
+In 2026, I taught Python, Artificial Intelligence, and Machine Learning courses to 120+ students as an iD Tech Instructor at Stanford University. 
 
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
@@ -33,26 +34,26 @@ ________________________________________________________________________________
 - Programming | Python, Java, C, Web Design (HTML, CSS, JavaScript)
 - Data Science | R, SQL, Excel, Tableau, Google Analytics, Git
 - Graphic Design | Drupal, Canva, Figma, Adobe
-- Video Production | Davinci Resolve, YouTube Studio
+- Video Production | DaVinci Resolve, YouTube Studio
 
 ____________________________________________________________________________________
 
-### 📍 Location
-I am currently based in [New York City](https://www.pace.edu/news/four-lubin-students-named-united-nations-millennium-fellows) and grew up in California's sunny Bay Area.  
+### Location
+Currently based in [New York City](https://www.pace.edu/news/four-lubin-students-named-united-nations-millennium-fellows), where I completed my undergrad at Pace University Honors College and work full-time at Healthfirst. Originally from the California Bay Area and Arizona.
 
 <img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
 ____________________________________________________________________________________
 
 ### Contact
-- Feel free to reach me anytime at melody.nguyen@pace.edu
+- Email: melodyxnguyen@gmail.com
 - Connect on [LinkedIn](https://www.linkedin.com/in/melodyxnguyen/)
 - For more details: [Resume](https://github.com/melodyxnguyen/melodyxnguyen/blob/main/MelodyNguyenResume.pdf)
 
 
-____________________________________________________________________________________
+<br>
 
-# My Projects 💻
+# My Projects 
 
 ### Research: Honors Thesis
 - Digital Pollution: Understanding the Cost of Large Language Models
@@ -63,6 +64,7 @@ ________________________________________________________________________________
 
 ### Routers & Web Services
 - AWS, DynamoDB:  [Blog Post](https://melodynguyen.pythonanywhere.com/login.html)
+- [Eudoxys Sciences LLC](https://www.eudoxys.com/)
 
 ### Software & Machine Learning
 - [Automated X-Ray Powder Diffraction Experiment](https://github.com/melodyxnguyen/autonomous-beamline)
@@ -98,6 +100,8 @@ ________________________________________________________________________________
 - [SQL Business Analytics](https://docs.google.com/presentation/d/1jvQVT06VE_abBy7DJF9FhwzJfRczF4QegeR6RT17grY/edit?slide=id.g92a1ad2113_0_137#slide=id.g92a1ad2113_0_137)
 - [Entrepreneurship Competition using Excel](https://docs.google.com/presentation/d/1Dl8U267ptbFnEJVF3goALgefLjH1ClFmgHQqaPBkZw0/edit?usp=sharing)
 - [Tableau Data Visualization](https://docs.google.com/document/d/1Rgbp5X63W37owc_7vZg9HSIsdGOtYzu7ueCxO_QO2xo/edit?tab=t.0)
+- [iD Tech - Artificial Intelligence and Machine Learning](https://www.idtech.com/courses/artificial-intelligence-and-machine-learning)
+- <br>
 
 ![INFORMS SlidShow](https://github.com/user-attachments/assets/7db472d1-238d-4b3a-95ec-6604350853de)
 
