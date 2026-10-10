@@ -3,9 +3,9 @@
 <img width="489" height="327" alt="Screenshot 2026-06-09 at 7 11 23 PM" src="https://github.com/user-attachments/assets/88accd51-6eda-43af-9129-26b3686220a0" />
 
 ### About Me
-- Interested in marketing, data science, software development, and product management.
+- Technical Business Analyst at Healthfirst in NYC, interested in product management.
 - I love running, training in martial arts, cooking, and reading fantasy novels.
-- Email: melody.nguyen@pace.edu
+- Email: melodyxnguyen@gmail.com
 
 ____________________________________________________________________________________
 
@@ -13,15 +13,15 @@ ________________________________________________________________________________
 
 - Digital Pollution | Data Storage and Energy Efficiency
 - Technology Transfer | Research to Industry
-- Educational Equity | Opportunities for Young Women
+- Educational and Health Care Equity
   
 ____________________________________________________________________________________
 
 ### About Me 🧸
 
-I enjoy teaming up to use technology to solve challenges like **climate change**. Over the past three years at [Stanford Linear Accelerator Center](https://www6.slac.stanford.edu/), I’ve gained hands-on experience in analytics, web development, and renewable energy projects. 
+I enjoy teaming up to use technology to solve challenges like **climate change**. For three years at [Stanford Linear Accelerator Center](https://www6.slac.stanford.edu/), I gained hands-on experience in analytics, web development, and renewable energy projects. 
 
-As an undergrad at Pace University, NYC, I teach students skills in code and analytics for the **Institute for Operations Research and the Management Sciences**; *view lessons [here](https://github.com/melodyxnguyen#teaching-code).*
+As an undergrad at Pace University, NYC, I taught college students skills in coding and analytics for the **Institute for Operations Research and the Management Sciences**; *view lessons [here](https://github.com/melodyxnguyen#teaching-code).* In summer 2026, I taught Python, Artificial Intelligence, and Machine Learning courses to 120+ students as an iD Tech Instructor at Stanford University. 
 
 <img width="329" alt="Screenshot 2025-01-13 at 3 33 41 PM" src="https://github.com/user-attachments/assets/71c9dee8-e606-48f7-b92d-17f8779441a0" />
 
@@ -38,10 +38,6 @@ ________________________________________________________________________________
 
 ### 📍 Location
 I am currently based in [New York City](https://www.pace.edu/news/four-lubin-students-named-united-nations-millennium-fellows) and grew up in California's sunny Bay Area.  
-
-This summer, I will be teaching machine learning with Python and Java as an iD Tech Instructor at Stanford University. 
-
-In fall 2026, I will start my master's in Computer Science at Georgia Institute of Technology.
 
 <img width="517" alt="Screenshot 2025-01-14 at 12 05 12 AM" src="https://github.com/user-attachments/assets/d5e175f9-3770-4820-83cc-1a65a21e8471" />
 
