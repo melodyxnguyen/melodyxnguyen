@@ -3,7 +3,8 @@
 <img width="489" height="327" alt="Screenshot 2026-06-09 at 7 11 23 PM" src="https://github.com/user-attachments/assets/88accd51-6eda-43af-9129-26b3686220a0" />
 
 ### About Me
-- Technical Business Analyst at Healthfirst in NYC, interested in product management.
+- Product technologist and business analyst with 3 years of industry experience
+- Worked with the Department of Energy, Stanford University, and Healthfirst. 
 - I love running, training in martial arts, cooking, and reading fantasy novels.
 - Email: melodyxnguyen@gmail.com
 
